@@ -23,7 +23,6 @@ to calculate the average. Finally, add another loop that goes through the employ
 those who have an hourly wage above the calculated average.
 """
 total = 0
-count = 0
 
 for employee in employees:
     total += employee[2]
